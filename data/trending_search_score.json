@@ -498,5 +498,255 @@
     "Country": "US",
     "Domain": "reddit.com",
     "Score": 0.382
+  },
+  {
+    "Country": "AU",
+    "Domain": "claude.ai",
+    "Score": 0.7591
+  },
+  {
+    "Country": "AU",
+    "Domain": "getadblock.com",
+    "Score": 0.7193
+  },
+  {
+    "Country": "AU",
+    "Domain": "anikai.to",
+    "Score": 0.6362
+  },
+  {
+    "Country": "AU",
+    "Domain": "target.com.au",
+    "Score": 0.5661
+  },
+  {
+    "Country": "AU",
+    "Domain": "primevideo.com",
+    "Score": 0.5553
+  },
+  {
+    "Country": "AU",
+    "Domain": "roblox.com",
+    "Score": 0.5412
+  },
+  {
+    "Country": "AU",
+    "Domain": "yahoo.com",
+    "Score": 0.5371
+  },
+  {
+    "Country": "AU",
+    "Domain": "spotify.com",
+    "Score": 0.5321
+  },
+  {
+    "Country": "AU",
+    "Domain": "okta.com",
+    "Score": 0.5313
+  },
+  {
+    "Country": "AU",
+    "Domain": "myer.com.au",
+    "Score": 0.5297
+  },
+  {
+    "Country": "AU",
+    "Domain": "microsoft.com",
+    "Score": 0.5285
+  },
+  {
+    "Country": "AU",
+    "Domain": "github.com",
+    "Score": 0.5273
+  },
+  {
+    "Country": "AU",
+    "Domain": "jbhifi.com.au",
+    "Score": 0.5264
+  },
+  {
+    "Country": "AU",
+    "Domain": "qantas.com",
+    "Score": 0.5245
+  },
+  {
+    "Country": "AU",
+    "Domain": "instagram.com",
+    "Score": 0.5237
+  },
+  {
+    "Country": "AU",
+    "Domain": "nytimes.com",
+    "Score": 0.5215
+  },
+  {
+    "Country": "AU",
+    "Domain": "amazon.com.au",
+    "Score": 0.5195
+  },
+  {
+    "Country": "AU",
+    "Domain": "x.com",
+    "Score": 0.5187
+  },
+  {
+    "Country": "AU",
+    "Domain": "recipetineats.com",
+    "Score": 0.5135
+  },
+  {
+    "Country": "AU",
+    "Domain": "nine.com.au",
+    "Score": 0.5109
+  },
+  {
+    "Country": "AU",
+    "Domain": "woolworths.com.au",
+    "Score": 0.5104
+  },
+  {
+    "Country": "AU",
+    "Domain": "nrl.com",
+    "Score": 0.5086
+  },
+  {
+    "Country": "AU",
+    "Domain": "live.com",
+    "Score": 0.5081
+  },
+  {
+    "Country": "AU",
+    "Domain": "snapchat.com",
+    "Score": 0.5039
+  },
+  {
+    "Country": "AU",
+    "Domain": "whatsapp.com",
+    "Score": 0.4925
+  },
+  {
+    "Country": "AU",
+    "Domain": "carsales.com.au",
+    "Score": 0.4896
+  },
+  {
+    "Country": "AU",
+    "Domain": "theguardian.com",
+    "Score": 0.4877
+  },
+  {
+    "Country": "AU",
+    "Domain": "google.com.au",
+    "Score": 0.481
+  },
+  {
+    "Country": "AU",
+    "Domain": "drive.com.au",
+    "Score": 0.4797
+  },
+  {
+    "Country": "AU",
+    "Domain": "ikea.com",
+    "Score": 0.4759
+  },
+  {
+    "Country": "AU",
+    "Domain": "twitch.tv",
+    "Score": 0.4747
+  },
+  {
+    "Country": "AU",
+    "Domain": "jetstar.com",
+    "Score": 0.4733
+  },
+  {
+    "Country": "AU",
+    "Domain": "netflix.com",
+    "Score": 0.4724
+  },
+  {
+    "Country": "AU",
+    "Domain": "nab.com.au",
+    "Score": 0.4696
+  },
+  {
+    "Country": "AU",
+    "Domain": "duckduckgo.com",
+    "Score": 0.4652
+  },
+  {
+    "Country": "AU",
+    "Domain": "domain.com.au",
+    "Score": 0.4649
+  },
+  {
+    "Country": "AU",
+    "Domain": "news.com.au",
+    "Score": 0.4622
+  },
+  {
+    "Country": "AU",
+    "Domain": "coles.com.au",
+    "Score": 0.4607
+  },
+  {
+    "Country": "AU",
+    "Domain": "imdb.com",
+    "Score": 0.4571
+  },
+  {
+    "Country": "AU",
+    "Domain": "ozbargain.com.au",
+    "Score": 0.4567
+  },
+  {
+    "Country": "AU",
+    "Domain": "unimelb.edu.au",
+    "Score": 0.4521
+  },
+  {
+    "Country": "AU",
+    "Domain": "xero.com",
+    "Score": 0.451
+  },
+  {
+    "Country": "AU",
+    "Domain": "unsw.edu.au",
+    "Score": 0.4466
+  },
+  {
+    "Country": "AU",
+    "Domain": "chatgpt.com",
+    "Score": 0.4461
+  },
+  {
+    "Country": "AU",
+    "Domain": "my.gov.au",
+    "Score": 0.4455
+  },
+  {
+    "Country": "AU",
+    "Domain": "realestate.com.au",
+    "Score": 0.4413
+  },
+  {
+    "Country": "AU",
+    "Domain": "temu.com",
+    "Score": 0.4381
+  },
+  {
+    "Country": "AU",
+    "Domain": "hotdoc.com.au",
+    "Score": 0.4379
+  },
+  {
+    "Country": "AU",
+    "Domain": "auspost.com.au",
+    "Score": 0.4375
+  },
+  {
+    "Country": "AU",
+    "Domain": "youtube.com",
+    "Score": 0.436
   }
 ]
