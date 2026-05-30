@@ -1,187 +1,252 @@
 [
   {
     "Country": "CN",
+    "Domain": "youku.com",
+    "Score": 0.6378
+  },
+  {
+    "Country": "CN",
+    "Domain": "chaoxing.com",
+    "Score": 0.6161
+  },
+  {
+    "Country": "CN",
     "Domain": "claude.ai",
-    "Score": 0.701
+    "Score": 0.6067
   },
   {
     "Country": "CN",
     "Domain": "doubao.com",
-    "Score": 0.6459
-  },
-  {
-    "Country": "CN",
-    "Domain": "msn.cn",
-    "Score": 0.6233
-  },
-  {
-    "Country": "CN",
-    "Domain": "kdocs.cn",
-    "Score": 0.5949
-  },
-  {
-    "Country": "CN",
-    "Domain": "deepseek.com",
-    "Score": 0.5825
-  },
-  {
-    "Country": "CN",
-    "Domain": "tiktok.com",
-    "Score": 0.5714
+    "Score": 0.6038
   },
   {
     "Country": "CN",
     "Domain": "jianying.com",
-    "Score": 0.563
+    "Score": 0.6012
   },
   {
     "Country": "CN",
-    "Domain": "live.com",
-    "Score": 0.5399
+    "Domain": "chsi.com.cn",
+    "Score": 0.5926
   },
   {
     "Country": "CN",
-    "Domain": "1688.com",
-    "Score": 0.5367
+    "Domain": "temu.com",
+    "Score": 0.5813
   },
   {
     "Country": "CN",
-    "Domain": "qianwen.com",
-    "Score": 0.5271
+    "Domain": "lingxing.com",
+    "Score": 0.5688
   },
   {
     "Country": "CN",
-    "Domain": "taobao.com",
-    "Score": 0.5168
+    "Domain": "tiktok.com",
+    "Score": 0.5589
   },
   {
     "Country": "CN",
-    "Domain": "chatgpt.com",
-    "Score": 0.5047
+    "Domain": "alibaba.com",
+    "Score": 0.551
   },
   {
     "Country": "CN",
-    "Domain": "facebook.com",
-    "Score": 0.5043
+    "Domain": "wps.cn",
+    "Score": 0.5507
   },
   {
     "Country": "CN",
-    "Domain": "163.com",
-    "Score": 0.4764
+    "Domain": "deepseek.com",
+    "Score": 0.5481
   },
   {
     "Country": "CN",
-    "Domain": "cnki.net",
-    "Score": 0.4741
-  },
-  {
-    "Country": "CN",
-    "Domain": "instagram.com",
-    "Score": 0.474
-  },
-  {
-    "Country": "CN",
-    "Domain": "xiaohongshu.com",
-    "Score": 0.4597
-  },
-  {
-    "Country": "CN",
-    "Domain": "microsoft.com",
-    "Score": 0.4545
-  },
-  {
-    "Country": "CN",
-    "Domain": "google.com",
-    "Score": 0.4535
-  },
-  {
-    "Country": "CN",
-    "Domain": "tencent.com",
-    "Score": 0.4503
-  },
-  {
-    "Country": "CN",
-    "Domain": "whatsapp.com",
-    "Score": 0.4439
-  },
-  {
-    "Country": "CN",
-    "Domain": "wikipedia.org",
-    "Score": 0.4254
-  },
-  {
-    "Country": "CN",
-    "Domain": "feishu.cn",
-    "Score": 0.4208
-  },
-  {
-    "Country": "CN",
-    "Domain": "youtube.com",
-    "Score": 0.4149
-  },
-  {
-    "Country": "CN",
-    "Domain": "weibo.com",
-    "Score": 0.4113
-  },
-  {
-    "Country": "CN",
-    "Domain": "douyin.com",
-    "Score": 0.4092
+    "Domain": "larkoffice.com",
+    "Score": 0.5466
   },
   {
     "Country": "CN",
     "Domain": "pinterest.com",
-    "Score": 0.3989
+    "Score": 0.5405
   },
   {
     "Country": "CN",
-    "Domain": "dingtalk.com",
-    "Score": 0.3973
+    "Domain": "msn.cn",
+    "Score": 0.5333
+  },
+  {
+    "Country": "CN",
+    "Domain": "msn.com",
+    "Score": 0.5333
   },
   {
     "Country": "CN",
     "Domain": "amazon.com",
-    "Score": 0.3897
+    "Score": 0.5296
   },
   {
     "Country": "CN",
-    "Domain": "reddit.com",
-    "Score": 0.3584
+    "Domain": "msftconnecttest.com",
+    "Score": 0.529
+  },
+  {
+    "Country": "CN",
+    "Domain": "taobao.com",
+    "Score": 0.5157
+  },
+  {
+    "Country": "CN",
+    "Domain": "live.com",
+    "Score": 0.5154
+  },
+  {
+    "Country": "CN",
+    "Domain": "bytedance.net",
+    "Score": 0.5131
+  },
+  {
+    "Country": "CN",
+    "Domain": "kdocs.cn",
+    "Score": 0.5099
+  },
+  {
+    "Country": "CN",
+    "Domain": "chatgpt.com",
+    "Score": 0.5052
+  },
+  {
+    "Country": "CN",
+    "Domain": "openai.com",
+    "Score": 0.5023
+  },
+  {
+    "Country": "CN",
+    "Domain": "cnblogs.com",
+    "Score": 0.5022
+  },
+  {
+    "Country": "CN",
+    "Domain": "antfin.com",
+    "Score": 0.501
+  },
+  {
+    "Country": "CN",
+    "Domain": "qcc.com",
+    "Score": 0.497
+  },
+  {
+    "Country": "CN",
+    "Domain": "yandex.com",
+    "Score": 0.494
+  },
+  {
+    "Country": "CN",
+    "Domain": "gamersky.com",
+    "Score": 0.4911
+  },
+  {
+    "Country": "CN",
+    "Domain": "cnki.net",
+    "Score": 0.4875
+  },
+  {
+    "Country": "CN",
+    "Domain": "facebook.com",
+    "Score": 0.4871
+  },
+  {
+    "Country": "CN",
+    "Domain": "alibaba-inc.com",
+    "Score": 0.4861
+  },
+  {
+    "Country": "CN",
+    "Domain": "aliyuncs.com",
+    "Score": 0.4858
+  },
+  {
+    "Country": "CN",
+    "Domain": "tencent.com",
+    "Score": 0.4809
+  },
+  {
+    "Country": "CN",
+    "Domain": "163.com",
+    "Score": 0.4726
+  },
+  {
+    "Country": "CN",
+    "Domain": "eastmoney.com",
+    "Score": 0.469
+  },
+  {
+    "Country": "CN",
+    "Domain": "microsoft.com",
+    "Score": 0.4688
+  },
+  {
+    "Country": "CN",
+    "Domain": "google.com",
+    "Score": 0.4681
+  },
+  {
+    "Country": "CN",
+    "Domain": "figma.com",
+    "Score": 0.4669
+  },
+  {
+    "Country": "CN",
+    "Domain": "sankuai.com",
+    "Score": 0.465
   },
   {
     "Country": "CN",
     "Domain": "hao123.com",
-    "Score": 0.3554
+    "Score": 0.4645
   },
   {
     "Country": "CN",
-    "Domain": "github.com",
-    "Score": 0.3504
+    "Domain": "elsevier.com",
+    "Score": 0.4637
   },
   {
     "Country": "CN",
-    "Domain": "bing.com",
-    "Score": 0.3406
+    "Domain": "shopify.com",
+    "Score": 0.4634
   },
   {
     "Country": "CN",
-    "Domain": "x.com",
-    "Score": 0.3252
+    "Domain": "huaban.com",
+    "Score": 0.4631
   },
   {
     "Country": "CN",
-    "Domain": "jd.com",
-    "Score": 0.31
+    "Domain": "xiaohongshu.com",
+    "Score": 0.4619
   },
   {
     "Country": "CN",
-    "Domain": "google.com.hk",
-    "Score": 0.2992
+    "Domain": "dingtalk.com",
+    "Score": 0.461
   },
   {
     "Country": "CN",
-    "Domain": "aliyun.com",
-    "Score": 0.2834
+    "Domain": "yahoo.com",
+    "Score": 0.4599
+  },
+  {
+    "Country": "CN",
+    "Domain": "volcengine.com",
+    "Score": 0.4573
+  },
+  {
+    "Country": "CN",
+    "Domain": "gitee.com",
+    "Score": 0.4538
+  },
+  {
+    "Country": "CN",
+    "Domain": "sogou.com",
+    "Score": 0.4462
   }
 ]
