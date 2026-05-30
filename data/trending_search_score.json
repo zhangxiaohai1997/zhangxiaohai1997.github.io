@@ -1,752 +1,187 @@
 [
   {
-    "Country": "BR",
+    "Country": "CN",
     "Domain": "claude.ai",
-    "Score": 0.7829
+    "Score": 0.701
   },
   {
-    "Country": "BR",
-    "Domain": "hbomax.com",
-    "Score": 0.5919
+    "Country": "CN",
+    "Domain": "doubao.com",
+    "Score": 0.6459
   },
   {
-    "Country": "BR",
-    "Domain": "roblox.com",
-    "Score": 0.5766
+    "Country": "CN",
+    "Domain": "msn.cn",
+    "Score": 0.6233
   },
   {
-    "Country": "BR",
-    "Domain": "github.com",
-    "Score": 0.5723
+    "Country": "CN",
+    "Domain": "kdocs.cn",
+    "Score": 0.5949
   },
   {
-    "Country": "BR",
-    "Domain": "terra.com.br",
-    "Score": 0.5443
+    "Country": "CN",
+    "Domain": "deepseek.com",
+    "Score": 0.5825
   },
   {
-    "Country": "BR",
-    "Domain": "linkedin.com",
-    "Score": 0.5376
+    "Country": "CN",
+    "Domain": "tiktok.com",
+    "Score": 0.5714
   },
   {
-    "Country": "BR",
-    "Domain": "labs.google",
-    "Score": 0.5335
+    "Country": "CN",
+    "Domain": "jianying.com",
+    "Score": 0.563
   },
   {
-    "Country": "BR",
-    "Domain": "hotmart.com",
-    "Score": 0.532
-  },
-  {
-    "Country": "BR",
-    "Domain": "twitch.tv",
-    "Score": 0.5295
-  },
-  {
-    "Country": "BR",
-    "Domain": "opoxv.com",
-    "Score": 0.529
-  },
-  {
-    "Country": "BR",
-    "Domain": "whatsapp.com",
-    "Score": 0.5246
-  },
-  {
-    "Country": "BR",
-    "Domain": "discord.com",
-    "Score": 0.5165
-  },
-  {
-    "Country": "BR",
-    "Domain": "animeshentai.biz",
-    "Score": 0.5159
-  },
-  {
-    "Country": "BR",
-    "Domain": "primevideo.com",
-    "Score": 0.5084
-  },
-  {
-    "Country": "BR",
-    "Domain": "spotify.com",
-    "Score": 0.5022
-  },
-  {
-    "Country": "BR",
-    "Domain": "howdoesin.net",
-    "Score": 0.5008
-  },
-  {
-    "Country": "BR",
-    "Domain": "trello.com",
-    "Score": 0.499
-  },
-  {
-    "Country": "BR",
-    "Domain": "netflix.com",
-    "Score": 0.4941
-  },
-  {
-    "Country": "BR",
-    "Domain": "amazon.com",
-    "Score": 0.4941
-  },
-  {
-    "Country": "BR",
-    "Domain": "ingresso.com",
-    "Score": 0.4903
-  },
-  {
-    "Country": "BR",
-    "Domain": "animesdigital.org",
-    "Score": 0.4852
-  },
-  {
-    "Country": "BR",
-    "Domain": "openai.com",
-    "Score": 0.4849
-  },
-  {
-    "Country": "BR",
-    "Domain": "crn77.com",
-    "Score": 0.4823
-  },
-  {
-    "Country": "BR",
-    "Domain": "apple.com",
-    "Score": 0.4779
-  },
-  {
-    "Country": "BR",
-    "Domain": "reclameaqui.com.br",
-    "Score": 0.4719
-  },
-  {
-    "Country": "BR",
-    "Domain": "eurogamer.pt",
-    "Score": 0.4671
-  },
-  {
-    "Country": "BR",
-    "Domain": "yahoo.com",
-    "Score": 0.4667
-  },
-  {
-    "Country": "BR",
-    "Domain": "facebook.com",
-    "Score": 0.4626
-  },
-  {
-    "Country": "BR",
-    "Domain": "flashscore.com.br",
-    "Score": 0.4585
-  },
-  {
-    "Country": "BR",
-    "Domain": "gov.br",
-    "Score": 0.4578
-  },
-  {
-    "Country": "BR",
-    "Domain": "vivo.com.br",
-    "Score": 0.4576
-  },
-  {
-    "Country": "BR",
+    "Country": "CN",
     "Domain": "live.com",
-    "Score": 0.4564
+    "Score": 0.5399
   },
   {
-    "Country": "BR",
-    "Domain": "uol.com.br",
-    "Score": 0.4547
+    "Country": "CN",
+    "Domain": "1688.com",
+    "Score": 0.5367
   },
   {
-    "Country": "BR",
-    "Domain": "jusbrasil.com.br",
-    "Score": 0.453
+    "Country": "CN",
+    "Domain": "qianwen.com",
+    "Score": 0.5271
   },
   {
-    "Country": "BR",
-    "Domain": "mercadolivre.com.br",
-    "Score": 0.4522
+    "Country": "CN",
+    "Domain": "taobao.com",
+    "Score": 0.5168
   },
   {
-    "Country": "BR",
-    "Domain": "msn.com",
-    "Score": 0.4489
+    "Country": "CN",
+    "Domain": "chatgpt.com",
+    "Score": 0.5047
   },
   {
-    "Country": "BR",
-    "Domain": "redecanais.ph",
-    "Score": 0.4476
+    "Country": "CN",
+    "Domain": "facebook.com",
+    "Score": 0.5043
   },
   {
-    "Country": "BR",
-    "Domain": "climatempo.com.br",
-    "Score": 0.4413
+    "Country": "CN",
+    "Domain": "163.com",
+    "Score": 0.4764
   },
   {
-    "Country": "BR",
-    "Domain": "weather.com",
-    "Score": 0.4408
+    "Country": "CN",
+    "Domain": "cnki.net",
+    "Score": 0.4741
   },
   {
-    "Country": "BR",
-    "Domain": "hardware.com.br",
-    "Score": 0.4342
+    "Country": "CN",
+    "Domain": "instagram.com",
+    "Score": 0.474
   },
   {
-    "Country": "BR",
+    "Country": "CN",
+    "Domain": "xiaohongshu.com",
+    "Score": 0.4597
+  },
+  {
+    "Country": "CN",
+    "Domain": "microsoft.com",
+    "Score": 0.4545
+  },
+  {
+    "Country": "CN",
     "Domain": "google.com",
-    "Score": 0.4341
+    "Score": 0.4535
   },
   {
-    "Country": "BR",
+    "Country": "CN",
+    "Domain": "tencent.com",
+    "Score": 0.4503
+  },
+  {
+    "Country": "CN",
+    "Domain": "whatsapp.com",
+    "Score": 0.4439
+  },
+  {
+    "Country": "CN",
     "Domain": "wikipedia.org",
-    "Score": 0.4332
+    "Score": 0.4254
   },
   {
-    "Country": "BR",
-    "Domain": "disneyplus.com",
-    "Score": 0.4291
+    "Country": "CN",
+    "Domain": "feishu.cn",
+    "Score": 0.4208
   },
   {
-    "Country": "BR",
-    "Domain": "nexustoons.com",
-    "Score": 0.4276
-  },
-  {
-    "Country": "BR",
-    "Domain": "temu.com",
-    "Score": 0.4269
-  },
-  {
-    "Country": "BR",
-    "Domain": "opera.com",
-    "Score": 0.4265
-  },
-  {
-    "Country": "BR",
-    "Domain": "bing.com",
-    "Score": 0.42
-  },
-  {
-    "Country": "BR",
-    "Domain": "imdb.com",
-    "Score": 0.4197
-  },
-  {
-    "Country": "BR",
-    "Domain": "tiktok.com",
-    "Score": 0.4093
-  },
-  {
-    "Country": "BR",
-    "Domain": "pinterest.com",
-    "Score": 0.4056
-  },
-  {
-    "Country": "US",
-    "Domain": "claude.ai",
-    "Score": 0.6271
-  },
-  {
-    "Country": "US",
-    "Domain": "instructure.com",
-    "Score": 0.5683
-  },
-  {
-    "Country": "US",
-    "Domain": "hbomax.com",
-    "Score": 0.5609
-  },
-  {
-    "Country": "US",
-    "Domain": "getadblock.com",
-    "Score": 0.5559
-  },
-  {
-    "Country": "US",
-    "Domain": "duosecurity.com",
-    "Score": 0.5397
-  },
-  {
-    "Country": "US",
-    "Domain": "homedepot.com",
-    "Score": 0.5213
-  },
-  {
-    "Country": "US",
-    "Domain": "github.com",
-    "Score": 0.5178
-  },
-  {
-    "Country": "US",
-    "Domain": "snapchat.com",
-    "Score": 0.5171
-  },
-  {
-    "Country": "US",
-    "Domain": "roblox.com",
-    "Score": 0.5139
-  },
-  {
-    "Country": "US",
-    "Domain": "linkedin.com",
-    "Score": 0.5072
-  },
-  {
-    "Country": "US",
-    "Domain": "spotify.com",
-    "Score": 0.5041
-  },
-  {
-    "Country": "US",
-    "Domain": "chatgpt.com",
-    "Score": 0.5036
-  },
-  {
-    "Country": "US",
-    "Domain": "zoom.us",
-    "Score": 0.5005
-  },
-  {
-    "Country": "US",
-    "Domain": "discord.com",
-    "Score": 0.4921
-  },
-  {
-    "Country": "US",
-    "Domain": "yahoo.com",
-    "Score": 0.479
-  },
-  {
-    "Country": "US",
-    "Domain": "ebay.com",
-    "Score": 0.4677
-  },
-  {
-    "Country": "US",
-    "Domain": "nytimes.com",
-    "Score": 0.4672
-  },
-  {
-    "Country": "US",
-    "Domain": "ticketmaster.com",
-    "Score": 0.4662
-  },
-  {
-    "Country": "US",
-    "Domain": "facebook.com",
-    "Score": 0.4661
-  },
-  {
-    "Country": "US",
-    "Domain": "hulu.com",
-    "Score": 0.4638
-  },
-  {
-    "Country": "US",
-    "Domain": "msn.com",
-    "Score": 0.4633
-  },
-  {
-    "Country": "US",
-    "Domain": "fidelity.com",
-    "Score": 0.4633
-  },
-  {
-    "Country": "US",
-    "Domain": "indeed.com",
-    "Score": 0.4575
-  },
-  {
-    "Country": "US",
-    "Domain": "realtor.com",
-    "Score": 0.4575
-  },
-  {
-    "Country": "US",
-    "Domain": "chase.com",
-    "Score": 0.4564
-  },
-  {
-    "Country": "US",
-    "Domain": "comix.to",
-    "Score": 0.4548
-  },
-  {
-    "Country": "US",
-    "Domain": "instagram.com",
-    "Score": 0.4471
-  },
-  {
-    "Country": "US",
-    "Domain": "yelp.com",
-    "Score": 0.4425
-  },
-  {
-    "Country": "US",
-    "Domain": "bankofamerica.com",
-    "Score": 0.4419
-  },
-  {
-    "Country": "US",
-    "Domain": "canva.com",
-    "Score": 0.4407
-  },
-  {
-    "Country": "US",
-    "Domain": "doordash.com",
-    "Score": 0.4395
-  },
-  {
-    "Country": "US",
-    "Domain": "whatsapp.com",
-    "Score": 0.4349
-  },
-  {
-    "Country": "US",
-    "Domain": "microsoft.com",
-    "Score": 0.4333
-  },
-  {
-    "Country": "US",
-    "Domain": "ups.com",
-    "Score": 0.4306
-  },
-  {
-    "Country": "US",
-    "Domain": "intuit.com",
-    "Score": 0.4295
-  },
-  {
-    "Country": "US",
-    "Domain": "cnn.com",
-    "Score": 0.4293
-  },
-  {
-    "Country": "US",
-    "Domain": "xfinity.com",
-    "Score": 0.4258
-  },
-  {
-    "Country": "US",
-    "Domain": "x.com",
-    "Score": 0.4204
-  },
-  {
-    "Country": "US",
-    "Domain": "tiktok.com",
-    "Score": 0.4199
-  },
-  {
-    "Country": "US",
-    "Domain": "twitch.tv",
-    "Score": 0.4195
-  },
-  {
-    "Country": "US",
-    "Domain": "imdb.com",
-    "Score": 0.4135
-  },
-  {
-    "Country": "US",
-    "Domain": "ca.gov",
-    "Score": 0.411
-  },
-  {
-    "Country": "US",
-    "Domain": "lowes.com",
-    "Score": 0.4087
-  },
-  {
-    "Country": "US",
-    "Domain": "okta.com",
-    "Score": 0.4014
-  },
-  {
-    "Country": "US",
-    "Domain": "nih.gov",
-    "Score": 0.3972
-  },
-  {
-    "Country": "US",
-    "Domain": "disneyplus.com",
-    "Score": 0.3915
-  },
-  {
-    "Country": "US",
-    "Domain": "accuweather.com",
-    "Score": 0.3882
-  },
-  {
-    "Country": "US",
-    "Domain": "amazon.com",
-    "Score": 0.3869
-  },
-  {
-    "Country": "US",
-    "Domain": "merriam-webster.com",
-    "Score": 0.383
-  },
-  {
-    "Country": "US",
-    "Domain": "reddit.com",
-    "Score": 0.382
-  },
-  {
-    "Country": "AU",
-    "Domain": "claude.ai",
-    "Score": 0.7591
-  },
-  {
-    "Country": "AU",
-    "Domain": "getadblock.com",
-    "Score": 0.7193
-  },
-  {
-    "Country": "AU",
-    "Domain": "anikai.to",
-    "Score": 0.6362
-  },
-  {
-    "Country": "AU",
-    "Domain": "target.com.au",
-    "Score": 0.5661
-  },
-  {
-    "Country": "AU",
-    "Domain": "primevideo.com",
-    "Score": 0.5553
-  },
-  {
-    "Country": "AU",
-    "Domain": "roblox.com",
-    "Score": 0.5412
-  },
-  {
-    "Country": "AU",
-    "Domain": "yahoo.com",
-    "Score": 0.5371
-  },
-  {
-    "Country": "AU",
-    "Domain": "spotify.com",
-    "Score": 0.5321
-  },
-  {
-    "Country": "AU",
-    "Domain": "okta.com",
-    "Score": 0.5313
-  },
-  {
-    "Country": "AU",
-    "Domain": "myer.com.au",
-    "Score": 0.5297
-  },
-  {
-    "Country": "AU",
-    "Domain": "microsoft.com",
-    "Score": 0.5285
-  },
-  {
-    "Country": "AU",
-    "Domain": "github.com",
-    "Score": 0.5273
-  },
-  {
-    "Country": "AU",
-    "Domain": "jbhifi.com.au",
-    "Score": 0.5264
-  },
-  {
-    "Country": "AU",
-    "Domain": "qantas.com",
-    "Score": 0.5245
-  },
-  {
-    "Country": "AU",
-    "Domain": "instagram.com",
-    "Score": 0.5237
-  },
-  {
-    "Country": "AU",
-    "Domain": "nytimes.com",
-    "Score": 0.5215
-  },
-  {
-    "Country": "AU",
-    "Domain": "amazon.com.au",
-    "Score": 0.5195
-  },
-  {
-    "Country": "AU",
-    "Domain": "x.com",
-    "Score": 0.5187
-  },
-  {
-    "Country": "AU",
-    "Domain": "recipetineats.com",
-    "Score": 0.5135
-  },
-  {
-    "Country": "AU",
-    "Domain": "nine.com.au",
-    "Score": 0.5109
-  },
-  {
-    "Country": "AU",
-    "Domain": "woolworths.com.au",
-    "Score": 0.5104
-  },
-  {
-    "Country": "AU",
-    "Domain": "nrl.com",
-    "Score": 0.5086
-  },
-  {
-    "Country": "AU",
-    "Domain": "live.com",
-    "Score": 0.5081
-  },
-  {
-    "Country": "AU",
-    "Domain": "snapchat.com",
-    "Score": 0.5039
-  },
-  {
-    "Country": "AU",
-    "Domain": "whatsapp.com",
-    "Score": 0.4925
-  },
-  {
-    "Country": "AU",
-    "Domain": "carsales.com.au",
-    "Score": 0.4896
-  },
-  {
-    "Country": "AU",
-    "Domain": "theguardian.com",
-    "Score": 0.4877
-  },
-  {
-    "Country": "AU",
-    "Domain": "google.com.au",
-    "Score": 0.481
-  },
-  {
-    "Country": "AU",
-    "Domain": "drive.com.au",
-    "Score": 0.4797
-  },
-  {
-    "Country": "AU",
-    "Domain": "ikea.com",
-    "Score": 0.4759
-  },
-  {
-    "Country": "AU",
-    "Domain": "twitch.tv",
-    "Score": 0.4747
-  },
-  {
-    "Country": "AU",
-    "Domain": "jetstar.com",
-    "Score": 0.4733
-  },
-  {
-    "Country": "AU",
-    "Domain": "netflix.com",
-    "Score": 0.4724
-  },
-  {
-    "Country": "AU",
-    "Domain": "nab.com.au",
-    "Score": 0.4696
-  },
-  {
-    "Country": "AU",
-    "Domain": "duckduckgo.com",
-    "Score": 0.4652
-  },
-  {
-    "Country": "AU",
-    "Domain": "domain.com.au",
-    "Score": 0.4649
-  },
-  {
-    "Country": "AU",
-    "Domain": "news.com.au",
-    "Score": 0.4622
-  },
-  {
-    "Country": "AU",
-    "Domain": "coles.com.au",
-    "Score": 0.4607
-  },
-  {
-    "Country": "AU",
-    "Domain": "imdb.com",
-    "Score": 0.4571
-  },
-  {
-    "Country": "AU",
-    "Domain": "ozbargain.com.au",
-    "Score": 0.4567
-  },
-  {
-    "Country": "AU",
-    "Domain": "unimelb.edu.au",
-    "Score": 0.4521
-  },
-  {
-    "Country": "AU",
-    "Domain": "xero.com",
-    "Score": 0.451
-  },
-  {
-    "Country": "AU",
-    "Domain": "unsw.edu.au",
-    "Score": 0.4466
-  },
-  {
-    "Country": "AU",
-    "Domain": "chatgpt.com",
-    "Score": 0.4461
-  },
-  {
-    "Country": "AU",
-    "Domain": "my.gov.au",
-    "Score": 0.4455
-  },
-  {
-    "Country": "AU",
-    "Domain": "realestate.com.au",
-    "Score": 0.4413
-  },
-  {
-    "Country": "AU",
-    "Domain": "temu.com",
-    "Score": 0.4381
-  },
-  {
-    "Country": "AU",
-    "Domain": "hotdoc.com.au",
-    "Score": 0.4379
-  },
-  {
-    "Country": "AU",
-    "Domain": "auspost.com.au",
-    "Score": 0.4375
-  },
-  {
-    "Country": "AU",
+    "Country": "CN",
     "Domain": "youtube.com",
-    "Score": 0.436
+    "Score": 0.4149
+  },
+  {
+    "Country": "CN",
+    "Domain": "weibo.com",
+    "Score": 0.4113
+  },
+  {
+    "Country": "CN",
+    "Domain": "douyin.com",
+    "Score": 0.4092
+  },
+  {
+    "Country": "CN",
+    "Domain": "pinterest.com",
+    "Score": 0.3989
+  },
+  {
+    "Country": "CN",
+    "Domain": "dingtalk.com",
+    "Score": 0.3973
+  },
+  {
+    "Country": "CN",
+    "Domain": "amazon.com",
+    "Score": 0.3897
+  },
+  {
+    "Country": "CN",
+    "Domain": "reddit.com",
+    "Score": 0.3584
+  },
+  {
+    "Country": "CN",
+    "Domain": "hao123.com",
+    "Score": 0.3554
+  },
+  {
+    "Country": "CN",
+    "Domain": "github.com",
+    "Score": 0.3504
+  },
+  {
+    "Country": "CN",
+    "Domain": "bing.com",
+    "Score": 0.3406
+  },
+  {
+    "Country": "CN",
+    "Domain": "x.com",
+    "Score": 0.3252
+  },
+  {
+    "Country": "CN",
+    "Domain": "jd.com",
+    "Score": 0.31
+  },
+  {
+    "Country": "CN",
+    "Domain": "google.com.hk",
+    "Score": 0.2992
+  },
+  {
+    "Country": "CN",
+    "Domain": "aliyun.com",
+    "Score": 0.2834
   }
 ]
